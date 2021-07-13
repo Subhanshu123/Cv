@@ -1,0 +1,147 @@
+
+
+
+
+hr {
+  margin-top: 100px;
+  padding-top: 50px;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: orange;
+  border-width: 7px;
+  width:10%;
+
+}
+.tt{
+  text-align: left;
+  margin-right: 10px;
+}
+
+
+body{
+  background-color: lightyellow;
+  text-align: center;
+
+  font-family: helvetica;
+  margin-top: 0;
+  margin-left: 0;
+  margin-right: 0;
+  padding-top: 0;
+}
+.hi{
+  position: absolute;
+}
+.ji{
+  position: relative;
+left: 280px;
+}
+h1{
+  font-family: 'Festive', cursive;
+  font-size: 5.625em;
+color: #66BFBF;
+}
+.jj{
+width: 200px;
+height: 200px;
+margin-top: 50px;
+}
+h2{
+  font-size: 2.5rem;
+  margin-top: 50px;
+  color: #66BFBF;
+}
+
+
+.first{
+  background-color: #EAF6F6;
+  font: #40514E;
+
+}
+h3{
+  color: #66BFBF;
+
+}
+
+.skill-row{
+  text-align: center;
+  margin: 10% 25% 30px 25%;
+}
+.rani{
+float: right;
+width: 25%;
+
+}
+.hello{
+  margin-bottom: 100px;
+}
+
+
+.lala{
+  text-align: center;
+  margin: auto 25% auto 25%;
+
+}
+.raja{
+  margin-bottom: 50px;
+}
+
+
+.jk{
+  width: 25%;
+  float: left;
+  margin-right: 20px;
+}
+.contact-me{
+  text-align: center;
+  margin-top: 10%;
+}
+.p1{
+  text-align: left;
+
+}
+
+
+.btn{
+  background: #95cbf0;
+  background-image: -webkit-linear-gradient(top, #95cbf0, #1f5c82);
+  background-image: -moz-linear-gradient(top, #95cbf0, #1f5c82);
+  background-image: -ms-linear-gradient(top, #95cbf0, #1f5c82);
+  background-image: -o-linear-gradient(top, #95cbf0, #1f5c82);
+  background-image: linear-gradient(to bottom, #95cbf0, #1f5c82);
+  -webkit-border-radius: 11;
+  -moz-border-radius: 11;
+  border-radius: 11px;
+  font-family: helvetica;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
+.ramu{
+  margin-bottom: 50px;
+}
+.bottom-container{
+  background-color:  #ff8000
+;
+  padding: 50px 0 30px 0;
+}
+a{
+  margin: auto 10px auto 10px;
+  color: #ffbf80;
+  text-decoration: none;
+}
+.tpt{
+  color: white;
+  font-size: 0.65rem;
+  margin-top: 10px;
+}
